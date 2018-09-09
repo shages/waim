@@ -1,2 +1,3 @@
-# waim
-What am I Missing? Explain permission denied
+# waim - What Am I Missing?
+Explain permission denied for filesystem access
+
